@@ -8,7 +8,7 @@ from PIL import Image
 
 st.title("Interfaces Multimodales 2024")
 st.subheader("Hello!")
-image = Image.open('text_to_audio.png')
+image = Image.open('text_to_audio.jpg')
 
 st.image(image, width=200)
 
